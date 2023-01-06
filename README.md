@@ -1,3 +1,14 @@
+![image](https://user-images.githubusercontent.com/64846552/210908753-cb45decd-5f83-4d5e-b127-4746665cf730.png)
+
+
+
+
+<p align="center"><b>Create by:</b> Kamil Malinowski <a href="https://www.linkedin.com/in/kamil-malinowski-4034601b5/">(LinkedIn)</a></p>
+
+<p align="center"><b>Copywriting:</b> Kamil Liber <a href="https://www.linkedin.com/in/kamil-liber-8499161b5">(LinkedIn)</a></p>
+
+![image](https://user-images.githubusercontent.com/64846552/210909045-0397b1fa-7bc1-4e2e-bfd0-e88d470f7152.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
